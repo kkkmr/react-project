@@ -1,6 +1,6 @@
 import React from "react";
 import './Image.css';
-import Tony from "../../assets/time.jpg"; // Importing an image
+import Tony from "../../../assets/time.jpg"; // Importing an image
 
 const ImageComponent = () => {
   return (

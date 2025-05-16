@@ -1,9 +1,9 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import {createRoot} from "react-dom/client";
-import AlertComponent from "@/components/Alert"; 
-import NotificationComponent from "@/components/Notification"; 
-import ImageComponent from "@/components/Image";
+import AlertComponent from "@/components/Alert/Alert"; 
+import NotificationComponent from "@/components/Notification/Notification"; 
+import ImageComponent from "@/components/Image/Image";
 import './index.css';
 
 // React.createElement gives an object. When it is rendered, it becomes HTML element.
