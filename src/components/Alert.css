@@ -1,7 +1,8 @@
 .alert{
     padding:1em;
     background-color: orangered;
-    color:white
+    color:white;
+    margin:0.5em;
 }
 
 .close-btn{

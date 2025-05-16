@@ -3,11 +3,11 @@ import './Notification.css';
 
 const NotificationComponent =()=>{
     return (
-        <a href="#" class="notification">
-            <span class="button">
+        <a href="#" className="notification">
+            <span className="button">
                 Inbox
             </span>
-            <span class="badge">
+            <span className="badge">
                 1
             </span>
         </a>
