@@ -1,0 +1,20 @@
+.alert{
+    padding:1em;
+    background-color: orangered;
+    color:white
+}
+
+.close-btn{
+    margin-left: 1em;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 1.25em;
+    line-height: 1em;
+    cursor: pointer;
+    transition: 0.3s;
+
+    &:hover{
+        color: black;
+    }
+}
